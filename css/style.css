@@ -49,7 +49,8 @@ nav img{
 
 }
 .current a{
-    background-color: yellow;
+    background-color: rgb(225, 148, 141);
+    
 }
 .nav-links ul li::after{
     content:'';
